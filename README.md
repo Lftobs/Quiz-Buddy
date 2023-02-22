@@ -1,2 +1,2 @@
 # Quiz-Buddy
-A cli python program that uses a quiz API.
+A cli python quiz program that uses a quiz API.
